@@ -32,15 +32,15 @@ You can find the dataset on the given link
 
 
 ## ✔️ Conclusion
-1. 2012 had the highest Total Revenue at 31.90M, followed by 2013 at 20.33M and 2010 at 19.19M.
+1. At 31.90 million, 2012 had the largest total revenue, followed by 20.33 million in 2013 and 19.19 million in 2010.
 
-2. If we observe the Yearly insights,  the sales are at their peak in November, May and October and are low in June, July and September. Amazon can come up with some good discounts and offers to generate high revenue.
+2. If we observe the yearly insights, the sales are at their peak in November, May, and October and are low in June, July, and September. Amazon can come up with some good discounts and offers to generate high revenue.
 
-3. The overall sales for the Sao Tome and Principe are highest among all countries and lowest in Kyrgyzstan.
+3. The overall sales for Sao Tome and Principe are highest among all countries and lowest in Kyrgyzstan.
+   
+4. Cosmetics and clothing are the highest-selling products in international markets.
 
-4. Cosmetics and Cloths are the highest selling products in international markets. 
-
-5. By overall, Offline sales channel had the highest sold units compared to online sales channel with a sales difference of 40,693 and a total sales of 5,12,871 combined together.
+5. Overall, offline sales channels had the highest number of units sold compared to online sales channels, with a sales difference of 40,693 and total sales of 5,12,871 combined.
 
 ## 📩 Feedback
 
